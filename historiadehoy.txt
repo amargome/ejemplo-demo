@@ -1,0 +1,31 @@
+    1  ls
+    2  cd Downloads/
+    3  dir
+    4  mk ejemplo-git
+    5  mkdir ejemplo-git
+    6  cd ejemplo-git
+    7  git init
+    8  ls la
+    9  ls -la
+   10  ls
+   11  cat hola.txt |less
+   12  git status
+   13  git add hola.txt 
+   14  git status 
+   15  git commit -m "añado hola.txt"
+   16  git config --global user.email alberto
+   17  git commit -m "añado hola.txt"
+   18  git status
+   19  git log
+   20  git branch
+   21  git branch -v
+   22  git status
+   23  touch adios.txt
+   24  ls
+   25  echo "Alberto" >> nombre.txt
+   26  cat nombre.txt
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit
+   31  history >> historiadehoy.txt
